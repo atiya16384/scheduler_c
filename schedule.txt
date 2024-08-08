@@ -1,0 +1,13 @@
+                 Schedule  
+Event will begin at : 10:00
+Number of events: 8
+Gap between events: 30
+
+Event No.  1 --- Start time: 10:00 End time: 11:00
+Event No.  2 --- Start time: 11:30 End time: 12:40
+Event No.  3 --- Start time: 13:10 End time: 14:20
+Event No.  4 --- Start time: 14:50 End time: 16:50
+Event No.  5 --- Start time: 17:20 End time: 18:20
+Event No.  6 --- Start time: 18:50 End time: 19:20
+Event No.  7 --- Start time: 19:50 End time: 20:50
+Event No.  8 --- Start time: 21:20 End time: 23:20
