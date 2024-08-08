@@ -1,7 +1,7 @@
 /**
  * Header file for scheduler module
  *
- * @author Atiyah Mahboob
+ * @author Atiya Mahboob
  */
 
 #ifndef SCHEDULER_H
